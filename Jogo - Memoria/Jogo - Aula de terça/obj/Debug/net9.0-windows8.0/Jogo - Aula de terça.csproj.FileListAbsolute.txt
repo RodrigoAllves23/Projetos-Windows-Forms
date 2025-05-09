@@ -1,0 +1,19 @@
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo___Aula_de_terça.Form1.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo___Aula_de_terça.Properties.Resources.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo___Aula_de_terça.TelaInicial.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.csproj.GenerateResource.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.AssemblyInfoInputs.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.AssemblyInfo.cs
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.csproj.CoreCompileInputs.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.sourcelink.json
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\bin\Debug\net9.0-windows8.0\Jogo - Aula de terça.exe
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\bin\Debug\net9.0-windows8.0\Jogo - Aula de terça.deps.json
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\bin\Debug\net9.0-windows8.0\Jogo - Aula de terça.runtimeconfig.json
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\bin\Debug\net9.0-windows8.0\Jogo - Aula de terça.dll
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\bin\Debug\net9.0-windows8.0\Jogo - Aula de terça.pdb
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.dll
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\refint\Jogo - Aula de terça.dll
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.pdb
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\Jogo - Aula de terça.genruntimeconfig.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net9.0-windows8.0\ref\Jogo - Aula de terça.dll

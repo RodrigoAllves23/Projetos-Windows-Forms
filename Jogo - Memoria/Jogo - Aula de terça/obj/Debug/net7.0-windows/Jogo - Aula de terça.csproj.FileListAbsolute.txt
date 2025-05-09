@@ -1,0 +1,9 @@
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo___Aula_de_terça.Form1.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo___Aula_de_terça.Properties.Resources.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo___Aula_de_terça.TelaInicial.resources
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.csproj.GenerateResource.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.AssemblyInfoInputs.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.AssemblyInfo.cs
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.csproj.CoreCompileInputs.cache
+C:\Users\RdRads\source\repos\Jogo-da-Memoria\Jogo - Memoria\Jogo - Aula de terça\obj\Debug\net7.0-windows\Jogo - Aula de terça.sourcelink.json
