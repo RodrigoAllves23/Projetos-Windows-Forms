@@ -1,0 +1,20 @@
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\bin\Debug\net9.0-windows\Sistema de cadastro.exe
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\bin\Debug\net9.0-windows\Sistema de cadastro.deps.json
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\bin\Debug\net9.0-windows\Sistema de cadastro.runtimeconfig.json
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\bin\Debug\net9.0-windows\Sistema de cadastro.dll
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\bin\Debug\net9.0-windows\Sistema de cadastro.pdb
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema_de_cadastro.Properties.Resources.resources
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.csproj.GenerateResource.cache
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.AssemblyInfoInputs.cache
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.AssemblyInfo.cs
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.csproj.CoreCompileInputs.cache
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.dll
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\refint\Sistema de cadastro.dll
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.pdb
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema de cadastro.genruntimeconfig.cache
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\ref\Sistema de cadastro.dll
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema_de_cadastro.CadastroCliente.resources
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema_de_cadastro.Menu.resources
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema_de_cadastro.Cadastro_de_Produto.resources
+C:\Users\RdRads\source\repos\Sistema de cadastro\Sistema de cadastro\obj\Debug\net9.0-windows\Sistema_de_cadastro.Cadastro_Pedido.resources
