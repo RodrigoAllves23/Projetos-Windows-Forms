@@ -9,7 +9,7 @@ Este repositório reúne uma coleção de projetos desenvolvidos em **Windows Fo
 
 ### 📐 Projeto 01 - Calculadora
 
-[Calculadora](https://github.com/RodrigoAllves23/Projetos-Windows-Forms/tree/main/Urna-eletronica)
+[Calculadora](https://github.com/RodrigoAllves23/Projetos-Windows-Forms/tree/main/Calculadora)
 
 **Descrição:**  
 Calculadora simples que realiza operações básicas.
@@ -29,7 +29,7 @@ C#, .NET Framework, Windows Forms
 
 ### 🧠 Projeto 02 - Jogo da Memória (ZOO)
 
-[Jogo da Memória](https://github.com/RodrigoAllves23/Projetos-Windows-Forms/tree/main/Jogo%20-%20Memoria/Jogo%20-%20Aula%20de%20ter%C3%A7a)
+[Jogo da Memória](https://github.com/RodrigoAllves23/Projetos-Windows-Forms/tree/main/Jogo%20-%20Memoria)
 
 **Descrição:**  
 Jogo interativo de memória com temática de animais do zoológico.
